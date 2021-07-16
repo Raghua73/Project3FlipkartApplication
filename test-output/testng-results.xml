@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46394" started-at="2021-07-16T15:18:36 IST" finished-at="2021-07-16T15:19:23 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46394" started-at="2021-07-16T15:18:36 IST" finished-at="2021-07-16T15:19:23 IST">
+      <class name="test.FlipkartTest">
+        <test-method status="PASS" signature="reportSetup()[pri:0, instance:test.FlipkartTest@3aeaafa6]" name="reportSetup" is-config="true" duration-ms="106" started-at="2021-07-16T15:18:36 IST" finished-at="2021-07-16T15:18:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportSetup -->
+        <test-method status="PASS" signature="openapp()[pri:0, instance:test.FlipkartTest@3aeaafa6]" name="openapp" is-config="true" duration-ms="16515" started-at="2021-07-16T15:18:36 IST" finished-at="2021-07-16T15:18:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="test_FlipkartPage()[pri:0, instance:test.FlipkartTest@3aeaafa6]" name="test_FlipkartPage" duration-ms="29158" started-at="2021-07-16T15:18:53 IST" finished-at="2021-07-16T15:19:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_FlipkartPage -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:test.FlipkartTest@3aeaafa6]" name="closeApp" is-config="true" duration-ms="680" started-at="2021-07-16T15:19:22 IST" finished-at="2021-07-16T15:19:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method status="PASS" signature="reportTeardown()[pri:0, instance:test.FlipkartTest@3aeaafa6]" name="reportTeardown" is-config="true" duration-ms="339" started-at="2021-07-16T15:19:23 IST" finished-at="2021-07-16T15:19:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTeardown -->
+      </class> <!-- test.FlipkartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
